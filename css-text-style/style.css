@@ -1,0 +1,26 @@
+body{
+    font-family: Arial,sans-serif;
+    font-size: 20px;
+}   
+h1{
+    text-align: center;
+    color: darkblue;
+
+}
+#main-title{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.intro-paragraph{
+font-style: italic;
+line-height: 1.5;
+}
+.content-paragraph{
+    text-transform: uppercase;
+}
+em{
+    font-weight: bold;
+}
+.color-box{
+    text-shadow: 2px 2px 0px #000030;
+}
